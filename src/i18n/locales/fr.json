@@ -1,0 +1,209 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "calendar": "Calendrier",
+    "program": "Programme",
+    "contact": "Nous contacter",
+    "appointment": "Prendre RDV"
+  },
+  "hero": {
+    "welcome": "Bienvenue au",
+    "title": "Christ Vision Sanctuary International",
+    "subtitle": "Centre International d'Évangélisation",
+    "verse": "Venez expérimenter une année de grâce et de gloire du Seigneur !",
+    "support": "Nous soutenir",
+    "program": "Notre Programme"
+  },
+  "events": {
+    "title": "Actualités",
+    "featured": "Événement à la une",
+    "viewAll": "Voir tout le calendrier",
+    "learnMore": "En savoir plus",
+    "time": "Heure",
+    "location": "Lieu"
+  },
+  "about": {
+    "title": "À propos de nous",
+    "name": "Christ Vision Sanctuary International",
+    "description": "Le Christ Vision Sanctuary International est un Centre International d'Évangélisation, puissant, ouvert et dynamique implanté et dirigé par le Bishop Louis Macaiah.",
+    "mission": "Depuis plus de 20 ans, nous proclamons la parole de Dieu avec puissance et autorité. Notre mission est de préserver la vision du Christ et de positionner les croyants pour accomplir leur destinée divine.",
+    "quote": "Préservés pour un but, positionnés pour une nouvelle chose !",
+    "stats": {
+      "members": "Membres actifs",
+      "branches": "Branches mondiales",
+      "lives": "Vies transformées",
+      "years": "Années de service"
+    },
+    "pillars": {
+      "title": "Une Maison pour Tous !",
+      "healing": {
+        "title": "Guérison",
+        "desc": "Des hommes et des femmes guéris de toutes maladies et de toutes infirmités par la puissance du Nom de Jésus."
+      },
+      "deliverance": {
+        "title": "Délivrance",
+        "desc": "Des personnes délivrées de toutes oppressions et possessions démoniaques, de tous les liens sataniques."
+      },
+      "restoration": {
+        "title": "Restauration",
+        "desc": "Des vies restaurées, des familles réconciliées, des foyers rebâtis par l'amour de Dieu."
+      },
+      "evangelism": {
+        "title": "Évangélisation",
+        "desc": "Des hommes et des femmes se libèrent de la servitude du monde et viennent au Seigneur."
+      }
+    }
+  },
+  "quickLinks": {
+    "title": "Une Maison pour Tous !",
+    "weeklyProgram": "Programme de la semaine",
+    "departments": "Nos Départements",
+    "youth": "Jeunesse du CVSI",
+    "support": "Nous soutenir",
+    "appointment": "Prendre rendez-vous",
+    "reservation": "Réservation & Commande"
+  },
+  "locations": {
+    "title": "Retrouvez-nous Partout !",
+    "subtitle": "centres au Ghana et à l'international, et bien d'autres prochainement...",
+    "centers": "centres"
+  },
+  "newsletter": {
+    "title": "Nous rejoindre",
+    "subtitle": "Ne manquez rien ! Rejoignez-nous pour plus d'infos sur nos événements et activités.",
+    "placeholder": "Votre adresse email...",
+    "subscribe": "Souscrire",
+    "free": "Gratuit",
+    "unsubscribe": "Désinscription facile",
+    "noSpam": "Aucun spam"
+  },
+  "footer": {
+    "description": "Centre International d'Évangélisation, puissant, ouvert et dynamique dirigé par le Bishop Louis Macaiah.",
+    "quickLinks": "Liens rapides",
+    "extensions": "Nos extensions",
+    "legal": "Mentions légales",
+    "privacy": "Données personnelles",
+    "charter": "Charte de confidentialité",
+    "copyright": "Christ Vision Sanctuary International | Tous droits réservés",
+    "madeWith": "Fait avec amour pour la gloire de Dieu"
+  },
+  "calendar": {
+    "title": "Le calendrier",
+    "subtitle": "Ne manquez rien !",
+    "description": "Découvrez notre calendrier de l'année : une année de foi, de partage et de fraternité vous attend ! Entre temps forts spirituels, rencontres fraternelles et actions solidaires, avançons ensemble sur le chemin de l'espérance.",
+    "calendarTitle": "Calendrier 2026 : Le Temps De La Mission",
+    "filters": "FILTRES",
+    "prevMonth": "Mois précédent",
+    "nextMonth": "Mois suivant",
+    "today": "Aujourd'hui",
+    "days": {
+      "mon": "lun.",
+      "tue": "mar.",
+      "wed": "mer.",
+      "thu": "jeu.",
+      "fri": "ven.",
+      "sat": "sam.",
+      "sun": "dim."
+    },
+    "categories": {
+      "all": "Tous",
+      "worship": "Culte",
+      "special": "Spécial",
+      "youth": "Jeunesse",
+      "conference": "Conférence"
+    },
+    "events": {
+      "mensWorship": "Culte des hommes",
+      "faf": "F.A.F",
+      "youthMoment": "Instant jeunesse",
+      "sundayWorship": "Culte du Dimanche",
+      "deliverance": "Soirée de Délivrance",
+      "bibleStudy": "Étude Biblique"
+    }
+  },
+  "program": {
+    "title": "Programme de la Semaine",
+    "description": "Rejoignez-nous tout au long de la semaine pour des moments puissants d'adoration, d'enseignement et de communion fraternelle.",
+    "specialEvents": "Événements Spéciaux",
+    "specialEventsDesc": "Consultez notre calendrier pour découvrir les conférences, séminaires et événements spéciaux qui auront lieu dans les prochaines semaines."
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "description": "Il est possible de nous contacter directement par téléphone ou par email. Cela peut être utile si vous avez une demande urgente ou si vous préférez un contact plus direct.",
+    "coordinates": "Coordonnées",
+    "form": {
+      "title": "Formulaire de contact",
+      "description": "En utilisant le formulaire ci-dessous, vous êtes assuré d'une réponse dans un délai raisonnable, généralement sous 24 à 48 heures. Nous mettons un point d'honneur à répondre rapidement à toutes les demandes.",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Objet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "namePlaceholder": "Votre nom complet",
+      "emailPlaceholder": "votre@email.com",
+      "subjectPlaceholder": "Sujet de votre message",
+      "messagePlaceholder": "Votre message..."
+    }
+  },
+  "appointment": {
+    "title": "Prendre Rendez-vous",
+    "withBishop": "Avec le Bishop",
+    "description": "Le Bishop Louis Macaiah se tient à votre disposition pour un entretien personnel. Remplissez le formulaire ci-dessous pour demander un rendez-vous.",
+    "personalInfo": "Informations personnelles",
+    "appointmentDetails": "Détails du rendez-vous",
+    "date": "Date souhaitée",
+    "time": "Heure préférée",
+    "reason": "Motif du rendez-vous",
+    "message": "Message complémentaire",
+    "submit": "Demander un rendez-vous",
+    "success": {
+      "title": "Demande envoyée !",
+      "message": "Votre demande de rendez-vous avec le Bishop Louis Macaiah a été envoyée avec succès. Notre équipe vous contactera sous peu pour confirmer la date et l'heure."
+    },
+    "reasons": {
+      "spiritual": "Conseil spirituel",
+      "deliverance": "Prière de délivrance",
+      "marriage": "Conseil matrimonial",
+      "direction": "Direction divine",
+      "blessing": "Bénédiction",
+      "other": "Autre"
+    }
+  },
+  "support": {
+    "title": "Nous Soutenir",
+    "participate": "Participez à l'œuvre",
+    "description": "Votre soutien nous permet de continuer à prêcher l'Évangile, à aider les nécessiteux et à étendre le Royaume de Dieu.",
+    "scripture": "Chacun donne selon ce qu'il a décidé dans son cœur, sans regret ni contrainte, car Dieu aime celui qui donne avec joie.",
+    "scriptureRef": "2 Corinthiens 9:7",
+    "thankYou": "Merci pour votre générosité !",
+    "thankYouDesc": "Chaque don, petit ou grand, contribue à faire avancer l'Évangile et à transformer des vies. Que Dieu vous bénisse abondamment !",
+    "methods": {
+      "card": {
+        "title": "Carte Bancaire",
+        "desc": "Paiement sécurisé par carte Visa, Mastercard ou autres."
+      },
+      "bank": {
+        "title": "Virement Bancaire",
+        "desc": "Effectuez un virement direct sur notre compte bancaire."
+      },
+      "mobile": {
+        "title": "Mobile Money",
+        "desc": "Donnez facilement via Mobile Money."
+      }
+    }
+  },
+  "common": {
+    "discover": "Découvrir",
+    "required": "Requis",
+    "optional": "Optionnel",
+    "close": "Fermer",
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès !",
+    "select": "Sélectionner"
+  }
+}

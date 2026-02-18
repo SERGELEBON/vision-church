@@ -1,0 +1,209 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "calendar": "Calendario",
+    "program": "Programa",
+    "contact": "Contáctenos",
+    "appointment": "Reservar Cita"
+  },
+  "hero": {
+    "welcome": "Bienvenido a",
+    "title": "Christ Vision Sanctuary International",
+    "subtitle": "Centro Internacional de Evangelización",
+    "verse": "¡Ven a experimentar un año de gracia y gloria del Señor!",
+    "support": "Apoyarnos",
+    "program": "Nuestro Programa"
+  },
+  "events": {
+    "title": "Noticias y Eventos",
+    "featured": "Evento Destacado",
+    "viewAll": "Ver Calendario Completo",
+    "learnMore": "Saber Más",
+    "time": "Hora",
+    "location": "Ubicación"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "name": "Christ Vision Sanctuary International",
+    "description": "Christ Vision Sanctuary International es un Centro Internacional de Evangelización poderoso, abierto y dinámico establecido y dirigido por el Obispo Louis Macaiah.",
+    "mission": "Durante más de 20 años, hemos estado proclamando la Palabra de Dios con poder y autoridad. Nuestra misión es preservar la visión de Cristo y posicionar a los creyentes para cumplir su destino divino.",
+    "quote": "¡Preservados para un propósito, posicionados para algo nuevo!",
+    "stats": {
+      "members": "Miembros Activos",
+      "branches": "Sucursales Mundiales",
+      "lives": "Vidas Transformadas",
+      "years": "Años de Servicio"
+    },
+    "pillars": {
+      "title": "¡Un Hogar para Todos!",
+      "healing": {
+        "title": "Sanidad",
+        "desc": "Hombres y mujeres sanados de todas las enfermedades e invalideces por el poder del Nombre de Jesús."
+      },
+      "deliverance": {
+        "title": "Liberación",
+        "desc": "Personas liberadas de todas las opresiones y posesiones demoníacas, de todos los lazos satánicos."
+      },
+      "restoration": {
+        "title": "Restauración",
+        "desc": "Vidas restauradas, familias reconciliadas, hogares reconstruidos por el amor de Dios."
+      },
+      "evangelism": {
+        "title": "Evangelización",
+        "desc": "Hombres y mujeres liberados de la servidumbre del mundo y viniendo al Señor."
+      }
+    }
+  },
+  "quickLinks": {
+    "title": "¡Un Hogar para Todos!",
+    "weeklyProgram": "Programa Semanal",
+    "departments": "Nuestros Departamentos",
+    "youth": "Juventud CVSI",
+    "support": "Apoyarnos",
+    "appointment": "Reservar Cita",
+    "reservation": "Reserva y Pedido"
+  },
+  "locations": {
+    "title": "¡Encuéntrenos en Todas Partes!",
+    "subtitle": "centros en Ghana e internacionalmente, con más próximamente...",
+    "centers": "centros"
+  },
+  "newsletter": {
+    "title": "Únase a Nosotros",
+    "subtitle": "¡No se pierda nada! Únase a nosotros para más información sobre nuestros eventos y actividades.",
+    "placeholder": "Su dirección de correo...",
+    "subscribe": "Suscribirse",
+    "free": "Gratis",
+    "unsubscribe": "Cancelación fácil",
+    "noSpam": "Sin spam"
+  },
+  "footer": {
+    "description": "Centro Internacional de Evangelización, poderoso, abierto y dinámico dirigido por el Obispo Louis Macaiah.",
+    "quickLinks": "Enlaces Rápidos",
+    "extensions": "Nuestras Extensiones",
+    "legal": "Aviso Legal",
+    "privacy": "Datos Personales",
+    "charter": "Política de Privacidad",
+    "copyright": "Christ Vision Sanctuary International | Todos los derechos reservados",
+    "madeWith": "Hecho con amor para la gloria de Dios"
+  },
+  "calendar": {
+    "title": "El Calendario",
+    "subtitle": "¡No se pierda nada!",
+    "description": "¡Descubra nuestro calendario del año: un año de fe, compartir y fraternidad le espera! Entre momentos espirituales fuertes, encuentros fraternales y acciones solidarias, avancemos juntos en el camino de la esperanza.",
+    "calendarTitle": "Calendario 2026: El Tiempo de la Misión",
+    "filters": "FILTROS",
+    "prevMonth": "Mes anterior",
+    "nextMonth": "Mes siguiente",
+    "today": "Hoy",
+    "days": {
+      "mon": "lun",
+      "tue": "mar",
+      "wed": "mié",
+      "thu": "jue",
+      "fri": "vie",
+      "sat": "sáb",
+      "sun": "dom"
+    },
+    "categories": {
+      "all": "Todos",
+      "worship": "Culto",
+      "special": "Especial",
+      "youth": "Juventud",
+      "conference": "Conferencia"
+    },
+    "events": {
+      "mensWorship": "Culto de Hombres",
+      "faf": "Hierro Afila Hierro (FAF)",
+      "youthMoment": "Momento Juvenil",
+      "sundayWorship": "Culto Dominical",
+      "deliverance": "Noche de Liberación",
+      "bibleStudy": "Estudio Bíblico"
+    }
+  },
+  "program": {
+    "title": "Programa Semanal",
+    "description": "Únase a nosotros durante toda la semana para momentos poderosos de adoración, enseñanza y comunión fraternal.",
+    "specialEvents": "Eventos Especiales",
+    "specialEventsDesc": "Consulte nuestro calendario para descubrir conferencias, seminarios y eventos especiales que tendrán lugar en las próximas semanas."
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "description": "Es posible contactarnos directamente por teléfono o correo electrónico. Esto puede ser útil si tiene una solicitud urgente o prefiere un contacto más directo.",
+    "coordinates": "Información de Contacto",
+    "form": {
+      "title": "Formulario de Contacto",
+      "description": "Al usar el formulario a continuación, se le asegura una respuesta dentro de un tiempo razonable, generalmente dentro de 24 a 48 horas. Hacemos un punto de honor para responder rápidamente a todas las solicitudes.",
+      "name": "Nombre",
+      "email": "Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "namePlaceholder": "Su nombre completo",
+      "emailPlaceholder": "su@correo.com",
+      "subjectPlaceholder": "Asunto de su mensaje",
+      "messagePlaceholder": "Su mensaje..."
+    }
+  },
+  "appointment": {
+    "title": "Reservar Cita",
+    "withBishop": "Con el Obispo",
+    "description": "El Obispo Louis Macaiah está disponible para una entrevista personal. Complete el formulario a continuación para solicitar una cita.",
+    "personalInfo": "Información Personal",
+    "appointmentDetails": "Detalles de la Cita",
+    "date": "Fecha Preferida",
+    "time": "Hora Preferida",
+    "reason": "Motivo de la Cita",
+    "message": "Mensaje Adicional",
+    "submit": "Solicitar Cita",
+    "success": {
+      "title": "¡Solicitud Enviada!",
+      "message": "Su solicitud de cita con el Obispo Louis Macaiah ha sido enviada con éxito. Nuestro equipo se comunicará con usted en breve para confirmar la fecha y hora."
+    },
+    "reasons": {
+      "spiritual": "Consejería Espiritual",
+      "deliverance": "Oración de Liberación",
+      "marriage": "Consejería Matrimonial",
+      "direction": "Dirección Divina",
+      "blessing": "Bendición",
+      "other": "Otro"
+    }
+  },
+  "support": {
+    "title": "Apoyarnos",
+    "participate": "Participe en la obra",
+    "description": "Su apoyo nos permite continuar predicando el Evangelio, ayudando a los necesitados y expandiendo el Reino de Dios.",
+    "scripture": "Cada uno debe dar lo que haya decidido en su corazón, no de mala gana ni por obligación, porque Dios ama al que da con alegría.",
+    "scriptureRef": "2 Corintios 9:7",
+    "thankYou": "¡Gracias por su generosidad!",
+    "thankYouDesc": "Cada donación, pequeña o grande, contribuye a hacer avanzar el Evangelio y transformar vidas. ¡Que Dios lo bendiga abundantemente!",
+    "methods": {
+      "card": {
+        "title": "Tarjeta de Crédito",
+        "desc": "Pago seguro con Visa, Mastercard u otros."
+      },
+      "bank": {
+        "title": "Transferencia Bancaria",
+        "desc": "Realice una transferencia directa a nuestra cuenta bancaria."
+      },
+      "mobile": {
+        "title": "Dinero Móvil",
+        "desc": "Done fácilmente a través de Dinero Móvil."
+      }
+    }
+  },
+  "common": {
+    "discover": "Descubrir",
+    "required": "Requerido",
+    "optional": "Opcional",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "¡Éxito!",
+    "select": "Seleccionar"
+  }
+}

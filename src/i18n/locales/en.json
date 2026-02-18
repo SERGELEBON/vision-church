@@ -1,0 +1,209 @@
+{
+  "nav": {
+    "home": "Home",
+    "calendar": "Calendar",
+    "program": "Program",
+    "contact": "Contact Us",
+    "appointment": "Book Appointment"
+  },
+  "hero": {
+    "welcome": "Welcome to",
+    "title": "Christ Vision Sanctuary International",
+    "subtitle": "International Evangelism Center",
+    "verse": "Come experience a year of grace and glory from the Lord!",
+    "support": "Support Us",
+    "program": "Our Program"
+  },
+  "events": {
+    "title": "News & Events",
+    "featured": "Featured Event",
+    "viewAll": "View Full Calendar",
+    "learnMore": "Learn More",
+    "time": "Time",
+    "location": "Location"
+  },
+  "about": {
+    "title": "About Us",
+    "name": "Christ Vision Sanctuary International",
+    "description": "Christ Vision Sanctuary International is a powerful, open and dynamic International Evangelism Center established and led by Bishop Louis Macaiah.",
+    "mission": "For over 20 years, we have been proclaiming the Word of God with power and authority. Our mission is to preserve Christ's vision and position believers to fulfill their divine destiny.",
+    "quote": "Preserved for a purpose, positioned for a new thing!",
+    "stats": {
+      "members": "Active Members",
+      "branches": "Worldwide Branches",
+      "lives": "Lives Transformed",
+      "years": "Years of Service"
+    },
+    "pillars": {
+      "title": "A Home for All!",
+      "healing": {
+        "title": "Healing",
+        "desc": "Men and women healed from all diseases and infirmities by the power of the Name of Jesus."
+      },
+      "deliverance": {
+        "title": "Deliverance",
+        "desc": "People delivered from all oppressions and demonic possessions, from all satanic bonds."
+      },
+      "restoration": {
+        "title": "Restoration",
+        "desc": "Lives restored, families reconciled, homes rebuilt by the love of God."
+      },
+      "evangelism": {
+        "title": "Evangelism",
+        "desc": "Men and women freed from the bondage of the world and coming to the Lord."
+      }
+    }
+  },
+  "quickLinks": {
+    "title": "A Home for All!",
+    "weeklyProgram": "Weekly Program",
+    "departments": "Our Departments",
+    "youth": "CVSI Youth",
+    "support": "Support Us",
+    "appointment": "Book Appointment",
+    "reservation": "Reservation & Order"
+  },
+  "locations": {
+    "title": "Find Us Everywhere!",
+    "subtitle": "centers in Ghana and internationally, with more coming soon...",
+    "centers": "centers"
+  },
+  "newsletter": {
+    "title": "Join Us",
+    "subtitle": "Don't miss anything! Join us for more info on our events and activities.",
+    "placeholder": "Your email address...",
+    "subscribe": "Subscribe",
+    "free": "Free",
+    "unsubscribe": "Easy unsubscribe",
+    "noSpam": "No spam"
+  },
+  "footer": {
+    "description": "International Evangelism Center, powerful, open and dynamic led by Bishop Louis Macaiah.",
+    "quickLinks": "Quick Links",
+    "extensions": "Our Extensions",
+    "legal": "Legal Notice",
+    "privacy": "Personal Data",
+    "charter": "Privacy Policy",
+    "copyright": "Christ Vision Sanctuary International | All rights reserved",
+    "madeWith": "Made with love for the glory of God"
+  },
+  "calendar": {
+    "title": "The Calendar",
+    "subtitle": "Don't miss anything!",
+    "description": "Discover our calendar for the year: a year of faith, sharing and fraternity awaits you! Between spiritual highlights, fraternal encounters and solidarity actions, let's move forward together on the path of hope.",
+    "calendarTitle": "Calendar 2026: The Time of Mission",
+    "filters": "FILTERS",
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month",
+    "today": "Today",
+    "days": {
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat",
+      "sun": "Sun"
+    },
+    "categories": {
+      "all": "All",
+      "worship": "Worship",
+      "special": "Special",
+      "youth": "Youth",
+      "conference": "Conference"
+    },
+    "events": {
+      "mensWorship": "Men's Worship",
+      "faf": "Iron Sharpens Iron (FAF)",
+      "youthMoment": "Youth Moment",
+      "sundayWorship": "Sunday Worship",
+      "deliverance": "Deliverance Night",
+      "bibleStudy": "Bible Study"
+    }
+  },
+  "program": {
+    "title": "Weekly Program",
+    "description": "Join us throughout the week for powerful moments of worship, teaching and fellowship.",
+    "specialEvents": "Special Events",
+    "specialEventsDesc": "Check our calendar to discover conferences, seminars and special events taking place in the coming weeks."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "You can contact us directly by phone or email. This can be useful if you have an urgent request or prefer more direct contact.",
+    "coordinates": "Contact Information",
+    "form": {
+      "title": "Contact Form",
+      "description": "By using the form below, you are assured of a response within a reasonable time, usually within 24 to 48 hours. We make it a point of honor to respond quickly to all requests.",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "namePlaceholder": "Your full name",
+      "emailPlaceholder": "your@email.com",
+      "subjectPlaceholder": "Subject of your message",
+      "messagePlaceholder": "Your message..."
+    }
+  },
+  "appointment": {
+    "title": "Book Appointment",
+    "withBishop": "With the Bishop",
+    "description": "Bishop Louis Macaiah is available for a personal interview. Fill out the form below to request an appointment.",
+    "personalInfo": "Personal Information",
+    "appointmentDetails": "Appointment Details",
+    "date": "Preferred Date",
+    "time": "Preferred Time",
+    "reason": "Reason for Appointment",
+    "message": "Additional Message",
+    "submit": "Request Appointment",
+    "success": {
+      "title": "Request Sent!",
+      "message": "Your appointment request with Bishop Louis Macaiah has been sent successfully. Our team will contact you shortly to confirm the date and time."
+    },
+    "reasons": {
+      "spiritual": "Spiritual Counseling",
+      "deliverance": "Deliverance Prayer",
+      "marriage": "Marriage Counseling",
+      "direction": "Divine Direction",
+      "blessing": "Blessing",
+      "other": "Other"
+    }
+  },
+  "support": {
+    "title": "Support Us",
+    "participate": "Participate in the work",
+    "description": "Your support allows us to continue preaching the Gospel, helping those in need and expanding the Kingdom of God.",
+    "scripture": "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
+    "scriptureRef": "2 Corinthians 9:7",
+    "thankYou": "Thank you for your generosity!",
+    "thankYouDesc": "Every donation, small or large, contributes to advancing the Gospel and transforming lives. May God bless you abundantly!",
+    "methods": {
+      "card": {
+        "title": "Credit Card",
+        "desc": "Secure payment by Visa, Mastercard or others."
+      },
+      "bank": {
+        "title": "Bank Transfer",
+        "desc": "Make a direct transfer to our bank account."
+      },
+      "mobile": {
+        "title": "Mobile Money",
+        "desc": "Donate easily via Mobile Money."
+      }
+    }
+  },
+  "common": {
+    "discover": "Discover",
+    "required": "Required",
+    "optional": "Optional",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "select": "Select"
+  }
+}
