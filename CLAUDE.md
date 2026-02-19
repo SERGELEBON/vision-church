@@ -68,5 +68,5 @@ src/
 
 - TypeScript configuration uses path mapping for `@/*` imports
 - ESLint configured for React and TypeScript
-- Vite config includes React plugin and Kimi inspect plugin for development
-- Base path set to `./` for deployment flexibility
+- Vite config includes React plugin with base path set to `./` for deployment flexibility
+- No testing framework currently configured
