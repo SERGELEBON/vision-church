@@ -1,31 +1,30 @@
 import { useTranslation } from 'react-i18next';
 import Navigation from '@/components/layout/Navigation';
 import Footer from '@/components/layout/Footer';
-import { Heart, Wallet, CreditCard, Building2, CheckCircle, ExternalLink } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Heart, Wallet, Building2, CheckCircle } from 'lucide-react';
 
 const Support = () => {
   const { t } = useTranslation();
 
   const donationMethods = [
     {
-      icon: <CreditCard className="w-8 h-8" />,
-      title: t('support.methods.card.title'),
-      description: t('support.methods.card.desc'),
-      action: t('hero.support'),
-      link: 'https://actionchapel.net/online-giving/',
-    },
-    {
       icon: <Building2 className="w-8 h-8" />,
       title: t('support.methods.bank.title'),
       description: t('support.methods.bank.desc'),
-      details: 'Banque: Ecobank Ghana\nCompte: 0123456789\nNom: Christ Vision Sanctuary',
+      type: 'bank',
+      banks: [
+        { name: 'Ecobank Ghana', account: '0123456789', image: '/bank1.png' },
+        { name: 'GCB Bank', account: '9876543210', image: '/bank2.png' },
+        { name: 'Absa Bank', account: '5555666777', image: '/bank3.png' }
+      ]
     },
     {
       icon: <Wallet className="w-8 h-8" />,
       title: t('support.methods.mobile.title'),
       description: t('support.methods.mobile.desc'),
-      details: 'MTN: 02462322224\nVodafone: 0551885588',
+      type: 'mobile',
+      image: '/momo1.png',
+      details: 'MTN: 02462322224\nVodafone: 0551885588\nAirtelTigo: 0277123456',
     },
   ];
 
@@ -76,7 +75,7 @@ const Support = () => {
           <h2 className="font-serif text-2xl font-bold text-white text-center mb-8">
             {t('support.methods.card.title')}
           </h2>
-          <div className="grid md:grid-cols-3 gap-6">
+          <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
             {donationMethods.map((method) => (
               <div
                 key={method.title}
@@ -94,27 +93,35 @@ const Support = () => {
                 <p className="text-white/60 text-center text-sm mb-4">
                   {method.description}
                 </p>
-                {method.details ? (
-                  <div className="bg-white/5 rounded-lg p-3 text-center">
-                    <p className="text-gold-light text-sm whitespace-pre-line">
+                {method.type === 'bank' ? (
+                  <div className="space-y-3">
+                    {method.banks?.map((bank, index) => (
+                      <div key={index} className="bg-white/5 rounded-lg p-3 flex items-center gap-3">
+                        <img
+                          src={bank.image}
+                          alt={bank.name}
+                          className="w-12 h-8 object-contain rounded"
+                        />
+                        <div className="flex-1 text-left">
+                          <p className="text-gold text-sm font-medium">{bank.name}</p>
+                          <p className="text-white/60 text-xs">{bank.account}</p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                ) : method.type === 'mobile' ? (
+                  <div className="bg-white/5 rounded-lg p-3">
+                    <div className="flex justify-center mb-3">
+                      <img
+                        src={method.image}
+                        alt="Mobile Money"
+                        className="h-12 object-contain"
+                      />
+                    </div>
+                    <p className="text-gold-light text-sm whitespace-pre-line text-center">
                       {method.details}
                     </p>
                   </div>
-                ) : method.link ? (
-                  <a
-                    href={method.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block"
-                  >
-                    <Button
-                      className="w-full bg-gold-gradient text-darkblue font-semibold rounded-lg
-                               hover:shadow-gold transition-all duration-300 flex items-center justify-center gap-2"
-                    >
-                      {method.action}
-                      <ExternalLink className="w-4 h-4" />
-                    </Button>
-                  </a>
                 ) : null}
               </div>
             ))}
